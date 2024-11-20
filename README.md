@@ -1,6 +1,6 @@
 # QA Training Project Readme
 This project uses the Replit IDE, which is located [here]().
-(https://replit.com/@slakshmikonduru/qa-project) .(https://idx.google.com/qa-projectgit-4458880)
+(https://replit.com/@slakshmikonduru/qa-project) .
 The technologies involved with this project are [Python](https://www.python.org/), [SQLite w/ Python](https://www.geeksforgeeks.org/python-sqlite/), and [Selenium](https://www.selenium.dev/).
 
 The skills developed in this project are:
